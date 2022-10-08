@@ -4,6 +4,9 @@ public class Sorter {
     System.out.println("Hey");
     System.out.println("Hey 2");
     System.out.println("Hey 3");
+
+    int[] a = {232, 1, 124, -2, 42, 11, 42342, 11};
+    insertionSort(a);
   }
 
   public static void selectionSort(int[] arr) {
