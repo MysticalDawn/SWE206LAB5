@@ -1,6 +1,7 @@
 public class Sorter {
     public static void main(String[] args) {
         System.out.println("Hey");
+        System.out.println("Hey 2");
     }
 
     public static void selectionSort(int[] arr){  
